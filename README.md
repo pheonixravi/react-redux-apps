@@ -1,3 +1,7 @@
+#dependecies
+ npm install mdbreact  
+npm i mdb-react-ui-kit @reduxjs/toolkit react-redux redux redux-persist
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
